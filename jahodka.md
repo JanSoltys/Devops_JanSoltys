@@ -3,6 +3,11 @@
 Jahodka je:
 
 # fajna
-#  ##perfektna##
+# perfektna
 # chutna
 # __vyborna__
+# cervena
+
+A toto je uz __koniec.__
+
+A toto je uz skutocny koniec.
