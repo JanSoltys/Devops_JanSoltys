@@ -2,7 +2,7 @@
 
 Jahodka je:
 
-# fajna224
+# 224
 # perfektnaaaaa
 # chutna a skvela
 # __vyborna__
