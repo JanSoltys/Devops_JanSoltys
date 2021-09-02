@@ -4,7 +4,7 @@ Jahodka je:
 
 # fajna
 # perfektnaaaaa
-# chutna
+# chutna a skvela
 # __vyborna__
 # cervena
 
