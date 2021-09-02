@@ -11,3 +11,5 @@ Jahodka je:
 A toto je uz __koniec.__
 
 A toto je uz skutocny koniec.
+
+Toto je pokus.
