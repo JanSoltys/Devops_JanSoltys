@@ -4,3 +4,6 @@ MALINKA je:
 
 # fajna
 # perfektna
+
+# jablko
+# hruska
